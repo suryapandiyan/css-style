@@ -1,0 +1,20 @@
+.grid-container{
+    display:grid;
+    grid-template-areas:1 1 1;
+    grid-template-columns: 100px
+    color:black;
+    
+} 
+.grid-item{
+    border:1px solid black;
+    background-color: aqua;
+    text-align: center;
+    padding:10px;
+    margin: ;
+}
+.item1{
+    grid-area: 1/span 2;
+}
+.item2{
+    grid-area:2;
+}

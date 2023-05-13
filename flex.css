@@ -1,0 +1,66 @@
+
+        /* .fixed {
+        position: fixed;
+        top:0;
+        left:0;
+        width:100% ;
+        background-color:red;
+        color:black;
+        
+    }
+.But{
+    background-color: lightcoral;
+    color:aliceblue;
+    margin: 10px;
+    padding:5px;
+    border-color:cyan;
+
+}
+h3{
+    text-align: center;
+}
+button{
+    text-align: center;
+    
+} */
+.navi{
+    position:sticky;
+    top:0;
+    background-color: darkgreen;
+    color:white;
+    padding:20 px;
+}
+.navi ul{
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+.navi li {
+    display: inline-block;
+     margin:10px;
+     
+}
+.navi a{
+    
+    text-decoration:wavy;
+    color:white;
+    padding: 6px;
+}
+.content{
+    height:1000px;
+    padding-top:40px;
+    padding-left:40px;
+}
+a:hover{
+    color:gold;
+}
+.container{
+    position:top;
+    width:800px;
+    border:1px solid black;
+    height:400px;
+}
+.absolute{
+    background-color: aqua;
+
+}

@@ -1,0 +1,42 @@
+/* li{
+    color:brown
+} 
+a:hover{
+    text-decoration:none;
+    background-color:greenyellow;
+    color:blue
+}
+.button:active{
+    background-color:aqua;
+}
+a:active{
+    text-decoration: underline;
+    color: darkorange;
+}
+a:visited{
+     color:greenyellow;
+}
+a:link{
+    color:crimson;
+} */
+.button:hover{
+    color:rgb(255, 47, 47)
+}
+a:link{
+    color:chocolate;
+}
+a.visited{
+    color:blueviolet;
+}
+.button:active{
+    background-color:bisque;
+}
+.span{
+    background-color:cyan;
+    display:inline-block;
+    width:100px;
+    border: 3px dotted grey;
+    padding:20px ;
+    margin: 10px;
+
+}
